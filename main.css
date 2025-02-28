@@ -1,0 +1,18 @@
+.m{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+.m2{
+    width: 100px;
+    height: 100px;
+}
+ul{
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+}
